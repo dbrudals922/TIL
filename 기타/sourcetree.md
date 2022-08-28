@@ -1,6 +1,5 @@
 ## sourcetree
 
-### 참고
-https://ux.stories.pe.kr/181
+### [참고 블로그] [https://ux.stories.pe.kr/181]
 
 ---
