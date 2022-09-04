@@ -8,4 +8,7 @@ const errRes = await axios.put('api/error', this.error)
 
 ```java
 @RequestMapping(value = "/error", method = ReqeustMethod.PUT, consumers = MediaType.APPLICATION_JSON_VALUE)
+  public void updateError(@requestBody ErrorConfiguration error){
+    this.flowSettings.setError(error);
+  }
 ```
