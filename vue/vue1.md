@@ -2,6 +2,6 @@
 비동기식 = 순차적으로 동작?<br>
 동기식 = 같이 함.<br>
 
-```vue
+```javascript
 const errRes = await axios.put('api/error', this.error)
 ```
